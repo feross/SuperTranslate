@@ -14,7 +14,7 @@ We had Adam D’Angelo (founder of Quora and former Facebook CTO), Andrew Boswor
 
 ## Google Text-To-Speech Scraper
 
-Instant.io re-uses the [Google text-to-speech scraper](http://www.github.com/feross/google-tts-scraper) I built when I made [Brain Grinder](http://braingrinder.com) last month.
+Instant.io re-uses the [Google text-to-speech scraper](https://github.com/feross/BrainGrinder.com/blob/master/server/server.py) I built when I made [Brain Grinder](http://braingrinder.com) ([github repo](https://github.com/feross/BrainGrinder.com)) last month.
 
 ## Other Libraries
 
