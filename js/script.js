@@ -210,7 +210,16 @@ var App = Base.extend({
 var app = new App();
 $(function() {
     // Make 'this' be the app instance.
-    app.onLoad.call(app);
+    app.onLoad();
+
+    // preload images
+    $.each(App.LANGS, function(i, lang) {
+      if (lang.tts != 'yes')
+        return;
+
+      var temp = new Image();
+      temp.src = '/img/' + lang.code + '.png';
+    });
 });
 
 var Card = Base.extend({
