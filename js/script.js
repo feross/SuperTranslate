@@ -2,7 +2,7 @@
 // Site:        http://feross.org
 // Powered by:  http://soundcloud.com/butchclancy/electro-flex
 
-soundManager.url = '/swf/';
+soundManager.url = 'swf/';
 soundManager.flashVersion = 8;
 var soundManagerLoaded = false;
 soundManager.onload = function() {
@@ -218,7 +218,7 @@ $(function() {
         return;
 
       var temp = new Image();
-      temp.src = '/img/' + lang.code + '.png';
+      temp.src = 'img/' + lang.code + '.png';
     });
 });
 
