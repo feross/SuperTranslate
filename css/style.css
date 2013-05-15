@@ -50,8 +50,8 @@ sup { top: -0.5em; }
 sub { bottom: -0.25em; }
 
 pre { white-space: pre; white-space: pre-wrap; word-wrap: break-word; padding: 15px; }
-textarea { overflow: auto; } 
-.ie6 legend, .ie7 legend { margin-left: -7px; } 
+textarea { overflow: auto; }
+.ie6 legend, .ie7 legend { margin-left: -7px; }
 input[type="radio"] { vertical-align: text-bottom; }
 input[type="checkbox"] { vertical-align: bottom; }
 .ie7 input[type="checkbox"] { vertical-align: baseline; }
@@ -78,9 +78,9 @@ a:hover { color: #036; }
 /**
  * Primary styles
  *
- * Author: 
+ * Author:
  */
- 
+
 .isotope,
 .isotope .isotope-item {
   /* change duration value to whatever you like */
@@ -153,7 +153,7 @@ button.punch:active {
 
 body {
     font-family: sans-serif;
-    background: #E8EFF5 url('/img/noise.png');
+    background: #E8EFF5 url('../img/noise.png');
 }
 
 #header {
@@ -164,7 +164,7 @@ body {
 
 #header.top {
     margin: 20px auto 5px auto;
-    
+
     -webkit-transition: all 0.5s ease-in-out;
 	-moz-transition: all 0.5s ease-in-out;
 	-o-transition: all 0.5s ease-in-out;
@@ -205,11 +205,11 @@ li {
     -moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
 	border-radius: 5px;
-    
+
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
-    
+
     background: white;
     color: #000;
     cursor: pointer;
@@ -221,8 +221,8 @@ li {
     width: 300px;
     text-align: center;
     text-shadow: #fff 1px 2px;
-    
-	
+
+
 	-moz-box-shadow: -3px -3px 10px 2px rgba(0,0,0,.3) inset,
 				0 0 0 10px rgba(255, 255, 255, .6) inset,
 				0 0 0 1px rgba(0,0,0,.5),
@@ -241,7 +241,7 @@ li .word {
     -moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
 	border-radius: 5px;
-    
+
     background: rgba(255, 255, 255, .4);
     font-size: 36px;
     padding: 5px 7px 5px 5px;
@@ -278,64 +278,64 @@ li .num {
 
 /* CARD STYLES */
 
-.af { background-image: url('/img/noise.png'), url('/img/af.png'); }
-.sq { background-image: url('/img/noise.png'), url('/img/sq.png'); }
-.ar { background-image: url('/img/noise.png'), url('/img/ar.png'); }
-.hy { background-image: url('/img/noise.png'), url('/img/hy.png'); }
-.az { background-image: url('/img/noise.png'), url('/img/az.png'); }
-.eu { background-image: url('/img/noise.png'), url('/img/eu.png'); }
-.be { background-image: url('/img/noise.png'), url('/img/be.png'); }
-.bg { background-image: url('/img/noise.png'), url('/img/bg.png'); }
-.ca { background-image: url('/img/noise.png'), url('/img/ca.png'); }
-.zh-CN { background-image: url('/img/noise.png'), url('/img/zh-CN.png'); }
-.hr { background-image: url('/img/noise.png'), url('/img/hr.png'); }
-.cs { background-image: url('/img/noise.png'), url('/img/cs.png'); }
-.da { background-image: url('/img/noise.png'), url('/img/da.png'); }
-.nl { background-image: url('/img/noise.png'), url('/img/nl.png'); }
-.en { background-image: url('/img/noise.png'), url('/img/en.png'); }
-.et { background-image: url('/img/noise.png'), url('/img/et.png'); }
-.tl { background-image: url('/img/noise.png'), url('/img/tl.png'); }
-.fi { background-image: url('/img/noise.png'), url('/img/fi.png'); }
-.fr { background-image: url('/img/noise.png'), url('/img/fr.png'); }
-.gl { background-image: url('/img/noise.png'), url('/img/gl.png'); }
-.ka { background-image: url('/img/noise.png'), url('/img/ka.png'); }
-.de { background-image: url('/img/noise.png'), url('/img/de.png'); }
-.el { background-image: url('/img/noise.png'), url('/img/el.png'); }
-.ht { background-image: url('/img/noise.png'), url('/img/ht.png'); }
-.iw { background-image: url('/img/noise.png'), url('/img/iw.png'); }
-.hi { background-image: url('/img/noise.png'), url('/img/hi.png'); }
-.hu { background-image: url('/img/noise.png'), url('/img/hu.png'); }
-.is { background-image: url('/img/noise.png'), url('/img/is.png'); }
-.id { background-image: url('/img/noise.png'), url('/img/id.png'); }
-.ga { background-image: url('/img/noise.png'), url('/img/ga.png'); }
-.it { background-image: url('/img/noise.png'), url('/img/it.png'); }
-.ja { background-image: url('/img/noise.png'), url('/img/ja.png'); }
-.ko { background-image: url('/img/noise.png'), url('/img/ko.png'); }
-.la { background-image: url('/img/noise.png'), url('/img/la.png'); }
-.lv { background-image: url('/img/noise.png'), url('/img/lv.png'); }
-.lt { background-image: url('/img/noise.png'), url('/img/lt.png'); }
-.mk { background-image: url('/img/noise.png'), url('/img/mk.png'); }
-.ms { background-image: url('/img/noise.png'), url('/img/ms.png'); }
-.mt { background-image: url('/img/noise.png'), url('/img/mt.png'); }
-.no { background-image: url('/img/noise.png'), url('/img/no.png'); }
-.fa { background-image: url('/img/noise.png'), url('/img/fa.png'); }
-.pl { background-image: url('/img/noise.png'), url('/img/pl.png'); }
-.pt { background-image: url('/img/noise.png'), url('/img/pt.png'); }
-.ro { background-image: url('/img/noise.png'), url('/img/ro.png'); }
-.ru { background-image: url('/img/noise.png'), url('/img/ru.png'); }
-.sr { background-image: url('/img/noise.png'), url('/img/sr.png'); }
-.sk { background-image: url('/img/noise.png'), url('/img/sk.png'); }
-.sl { background-image: url('/img/noise.png'), url('/img/sl.png'); }
-.es { background-image: url('/img/noise.png'), url('/img/es.png'); }
-.sw { background-image: url('/img/noise.png'), url('/img/sw.png'); }
-.sv { background-image: url('/img/noise.png'), url('/img/sv.png'); }
-.th { background-image: url('/img/noise.png'), url('/img/th.png'); }
-.tr { background-image: url('/img/noise.png'), url('/img/tr.png'); }
-.uk { background-image: url('/img/noise.png'), url('/img/uk.png'); }
-.ur { background-image: url('/img/noise.png'), url('/img/ur.png'); }
-.vi { background-image: url('/img/noise.png'), url('/img/vi.png'); }
-.cy { background-image: url('/img/noise.png'), url('/img/cy.png'); }
-.yi { background-image: url('/img/noise.png'), url('/img/yi.png'); }
+.af { background-image: url('../img/noise.png'), url('../img/af.png'); }
+.sq { background-image: url('../img/noise.png'), url('../img/sq.png'); }
+.ar { background-image: url('../img/noise.png'), url('../img/ar.png'); }
+.hy { background-image: url('../img/noise.png'), url('../img/hy.png'); }
+.az { background-image: url('../img/noise.png'), url('../img/az.png'); }
+.eu { background-image: url('../img/noise.png'), url('../img/eu.png'); }
+.be { background-image: url('../img/noise.png'), url('../img/be.png'); }
+.bg { background-image: url('../img/noise.png'), url('../img/bg.png'); }
+.ca { background-image: url('../img/noise.png'), url('../img/ca.png'); }
+.zh-CN { background-image: url('../img/noise.png'), url('../img/zh-CN.png'); }
+.hr { background-image: url('../img/noise.png'), url('../img/hr.png'); }
+.cs { background-image: url('../img/noise.png'), url('../img/cs.png'); }
+.da { background-image: url('../img/noise.png'), url('../img/da.png'); }
+.nl { background-image: url('../img/noise.png'), url('../img/nl.png'); }
+.en { background-image: url('../img/noise.png'), url('../img/en.png'); }
+.et { background-image: url('../img/noise.png'), url('../img/et.png'); }
+.tl { background-image: url('../img/noise.png'), url('../img/tl.png'); }
+.fi { background-image: url('../img/noise.png'), url('../img/fi.png'); }
+.fr { background-image: url('../img/noise.png'), url('../img/fr.png'); }
+.gl { background-image: url('../img/noise.png'), url('../img/gl.png'); }
+.ka { background-image: url('../img/noise.png'), url('../img/ka.png'); }
+.de { background-image: url('../img/noise.png'), url('../img/de.png'); }
+.el { background-image: url('../img/noise.png'), url('../img/el.png'); }
+.ht { background-image: url('../img/noise.png'), url('../img/ht.png'); }
+.iw { background-image: url('../img/noise.png'), url('../img/iw.png'); }
+.hi { background-image: url('../img/noise.png'), url('../img/hi.png'); }
+.hu { background-image: url('../img/noise.png'), url('../img/hu.png'); }
+.is { background-image: url('../img/noise.png'), url('../img/is.png'); }
+.id { background-image: url('../img/noise.png'), url('../img/id.png'); }
+.ga { background-image: url('../img/noise.png'), url('../img/ga.png'); }
+.it { background-image: url('../img/noise.png'), url('../img/it.png'); }
+.ja { background-image: url('../img/noise.png'), url('../img/ja.png'); }
+.ko { background-image: url('../img/noise.png'), url('../img/ko.png'); }
+.la { background-image: url('../img/noise.png'), url('../img/la.png'); }
+.lv { background-image: url('../img/noise.png'), url('../img/lv.png'); }
+.lt { background-image: url('../img/noise.png'), url('../img/lt.png'); }
+.mk { background-image: url('../img/noise.png'), url('../img/mk.png'); }
+.ms { background-image: url('../img/noise.png'), url('../img/ms.png'); }
+.mt { background-image: url('../img/noise.png'), url('../img/mt.png'); }
+.no { background-image: url('../img/noise.png'), url('../img/no.png'); }
+.fa { background-image: url('../img/noise.png'), url('../img/fa.png'); }
+.pl { background-image: url('../img/noise.png'), url('../img/pl.png'); }
+.pt { background-image: url('../img/noise.png'), url('../img/pt.png'); }
+.ro { background-image: url('../img/noise.png'), url('../img/ro.png'); }
+.ru { background-image: url('../img/noise.png'), url('../img/ru.png'); }
+.sr { background-image: url('../img/noise.png'), url('../img/sr.png'); }
+.sk { background-image: url('../img/noise.png'), url('../img/sk.png'); }
+.sl { background-image: url('../img/noise.png'), url('../img/sl.png'); }
+.es { background-image: url('../img/noise.png'), url('../img/es.png'); }
+.sw { background-image: url('../img/noise.png'), url('../img/sw.png'); }
+.sv { background-image: url('../img/noise.png'), url('../img/sv.png'); }
+.th { background-image: url('../img/noise.png'), url('../img/th.png'); }
+.tr { background-image: url('../img/noise.png'), url('../img/tr.png'); }
+.uk { background-image: url('../img/noise.png'), url('../img/uk.png'); }
+.ur { background-image: url('../img/noise.png'), url('../img/ur.png'); }
+.vi { background-image: url('../img/noise.png'), url('../img/vi.png'); }
+.cy { background-image: url('../img/noise.png'), url('../img/cy.png'); }
+.yi { background-image: url('../img/noise.png'), url('../img/yi.png'); }
 
 /*.cs {
     background-image: -webkit-gradient(
@@ -345,14 +345,14 @@ li .num {
         color-stop(0.26, rgba(255,255,255, 0.2)),
         color-stop(0.63, rgba(240,240,240, 0.1))
     ),
-    url('/img/noise.png'), url('/img/cs.png');
-    
+    url('../img/noise.png'), url('../img/cs.png');
+
     background-image: -moz-linear-gradient(
         center bottom,
         rgba(255,255,255, 0.2) 26%,
         rgba(240,240,240, 0.1) 63%
     ),
-    url('/img/noise.png'), url('/img/cs.png');
+    url('../img/noise.png'), url('../img/cs.png');
 }
 .en {
     background-image: -webkit-gradient(
@@ -362,14 +362,14 @@ li .num {
         color-stop(0.26, rgba(255,255,255, 0.2)),
         color-stop(0.63, rgba(240,240,240, 0.1))
     ),
-    url('/img/noise.png'), url('/img/en.png');
-    
+    url('../img/noise.png'), url('../img/en.png');
+
     background-image: -moz-linear-gradient(
         center bottom,
         rgba(255,255,255, 0.2) 26%,
         rgba(240,240,240, 0.1) 63%
     ),
-    url('/img/noise.png'), url('/img/en.png');
+    url('../img/noise.png'), url('../img/en.png');
 }*/
 
 
@@ -399,20 +399,20 @@ li .num {
 }
 
 @media screen and (max-device-width: 480px) {
-  
+
   /* html { -webkit-text-size-adjust:none; -ms-text-size-adjust:none; } */
 }
 
 
 @media print {
   * { background: transparent !important; color: black !important; text-shadow: none !important; filter:none !important;
-  -ms-filter: none !important; } 
+  -ms-filter: none !important; }
   a, a:visited { color: #444 !important; text-decoration: underline; }
   a[href]:after { content: " (" attr(href) ")"; }
   abbr[title]:after { content: " (" attr(title) ")"; }
-  .ir a:after, a[href^="javascript:"]:after, a[href^="#"]:after { content: ""; }  
+  .ir a:after, a[href^="javascript:"]:after, a[href^="#"]:after { content: ""; }
   pre, blockquote { border: 1px solid #999; page-break-inside: avoid; }
-  thead { display: table-header-group; } 
+  thead { display: table-header-group; }
   tr, img { page-break-inside: avoid; }
   @page { margin: 0.5cm; }
   p, h2, h3 { orphans: 3; widows: 3; }
