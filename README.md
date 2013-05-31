@@ -1,4 +1,4 @@
-# Instant.io
+# SuperTranslate (formerly called Instant.io)
 
 Sheesh, I think I’m definitely obsessed with the word *instant*. I admit, the name "Instant.IO" doesn’t tell you much about this site’s purpose, but I had the domain name and I didn’t want to let the $50 registration go to waste (yeah non-standard TLDs are pretty expensive).
 
